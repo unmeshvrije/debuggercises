@@ -2,7 +2,7 @@
 
 ## /exercises/functions/2-fix-the-bugs 
 
-> 6/11/2020, 5:16:13 PM 
+> 6/11/2020, 5:19:51 PM 
 
 [../REVIEW.md](../REVIEW.md)
 
@@ -105,7 +105,7 @@ console.assert(_6_actual === _6_expect, 'Test 6');
 ```
 
 ```js
-// fix the mistakes in this conditional
+// fix the mistakes in this loop
 //  all of the bugs are in the while loop
 //  there are no mistakes in the type checks, comment, or tests
 
@@ -177,7 +177,7 @@ console.assert(_6_actual === _6_expect, 'Test 6');
 ```
 
 ```js
-// fix the mistakes in this conditional
+// fix the mistakes in this loop
 //  all of the bugs are in the for loop
 //  there are no mistakes in the type checks, comment, or tests
 

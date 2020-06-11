@@ -1,4 +1,4 @@
-// fix the mistakes in this conditional
+// fix the mistakes in this loop
 //  all of the bugs are in the for loop
 //  there are no mistakes in the type checks, comment, or tests
 

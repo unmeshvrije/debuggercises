@@ -2,7 +2,7 @@
 
 ## /exercises 
 
-> 6/11/2020, 5:16:13 PM 
+> 6/11/2020, 5:19:51 PM 
 
 - [/functions](./functions/REVIEW.md)
   - [/0-examples](./functions/0-examples/REVIEW.md)
