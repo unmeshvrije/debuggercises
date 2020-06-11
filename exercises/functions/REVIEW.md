@@ -1,8 +1,8 @@
-# Live Study 
+# Debuggercises 
 
 ## /exercises/functions 
 
-> 6/11/2020, 4:44:07 PM 
+> 6/11/2020, 5:16:13 PM 
 
 [../REVIEW.md](../REVIEW.md)
 

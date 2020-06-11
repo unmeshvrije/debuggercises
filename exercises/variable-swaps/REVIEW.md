@@ -1,8 +1,8 @@
-# Live Study 
+# Debuggercises 
 
 ## /exercises/variable-swaps 
 
-> 6/11/2020, 4:44:07 PM 
+> 6/11/2020, 5:16:13 PM 
 
 [../REVIEW.md](../REVIEW.md)
 
@@ -66,7 +66,7 @@ console.assert(isTrue3, 'Test 3');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -120,7 +120,7 @@ console.assert(isTrue4, 'Test 4');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -174,7 +174,7 @@ console.assert(isTrue4, 'Test 4');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -234,7 +234,7 @@ console.assert(isTrue5, 'Test 5');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -294,7 +294,7 @@ console.assert(isTrue5, 'Test 5');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -354,7 +354,7 @@ console.assert(isTrue4, "Test 4");
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -419,5 +419,5 @@ console.assert(isTrue5, 'Test 5');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 

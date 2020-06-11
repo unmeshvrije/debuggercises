@@ -1,8 +1,8 @@
-# Live Study 
+# Debuggercises 
 
 ## /exercises/functions/2-fix-the-bugs 
 
-> 6/11/2020, 4:44:07 PM 
+> 6/11/2020, 5:16:13 PM 
 
 [../REVIEW.md](../REVIEW.md)
 
@@ -85,7 +85,7 @@ console.assert(_6_actual === _6_expect, 'Test 6');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -157,7 +157,7 @@ console.assert(_6_actual === _6_expect, 'Test 6');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -227,5 +227,5 @@ console.assert(_6_actual === _6_expect, 'Test 6');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 

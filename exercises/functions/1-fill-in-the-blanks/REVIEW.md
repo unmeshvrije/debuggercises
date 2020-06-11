@@ -1,8 +1,8 @@
-# Live Study 
+# Debuggercises 
 
 ## /exercises/functions/1-fill-in-the-blanks 
 
-> 6/11/2020, 4:44:07 PM 
+> 6/11/2020, 5:16:13 PM 
 
 [../REVIEW.md](../REVIEW.md)
 
@@ -94,7 +94,7 @@ console.assert(_9_actual === _9_expect, 'Test 9');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -176,7 +176,7 @@ console.assert(_9_actual === _9_expect, 'Test 9');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -257,7 +257,7 @@ console.assert(_9_actual === _9_expect, 'Test 9');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -338,7 +338,7 @@ console.assert(_9_actual === _9_expect, 'Test 9');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -433,7 +433,7 @@ console.assert(_4_actualB === _4_expect, 'Test 4 B');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -528,5 +528,5 @@ console.assert(_4_actualB === _4_expect, 'Test 4 B');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 

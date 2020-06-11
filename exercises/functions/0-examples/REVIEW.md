@@ -1,8 +1,8 @@
-# Live Study 
+# Debuggercises 
 
 ## /exercises/functions/0-examples 
 
-> 6/11/2020, 4:44:07 PM 
+> 6/11/2020, 5:16:13 PM 
 
 [../REVIEW.md](../REVIEW.md)
 
@@ -76,7 +76,7 @@ function reverseString(str) {
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -165,7 +165,7 @@ function reverseString(str) {
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -250,7 +250,7 @@ console.assert(_5_actual === _5_expect, 'Test 5');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
 ---
 
@@ -347,5 +347,5 @@ console.assert(_3_actualLoop === _3_expect, 'Test 3 Loop');
 
 ```
 
-[TOP](#live-study)
+[TOP](#debuggercises)
 
