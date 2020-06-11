@@ -1,0 +1,10 @@
+{
+  "title": "Live Study",
+  "path": "/exercises",
+  "buttons": {
+    "console": false,
+    "devTools": true,
+    "jsTutor": true,
+    "loupe": false
+  }
+}

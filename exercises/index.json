@@ -1,0 +1,112 @@
+{
+  "path": "/exercises",
+  "dirs": [
+    {
+      "path": "/functions",
+      "dirs": [
+        {
+          "path": "/0-examples",
+          "files": [
+            {
+              "path": "/1-commenting-functions.js"
+            },
+            {
+              "path": "/2-enforcing-types.js"
+            },
+            {
+              "path": "/3-test-cases.js"
+            },
+            {
+              "path": "/4-behavior-vs-implementation.js"
+            }
+          ],
+          "isExample": true
+        },
+        {
+          "path": "/1-fill-in-the-blanks",
+          "files": [
+            {
+              "path": "/1-write-tests.js"
+            },
+            {
+              "path": "/2-write-tests.js"
+            },
+            {
+              "path": "/3-pass-tests.js"
+            },
+            {
+              "path": "/4-pass-tests.js"
+            },
+            {
+              "path": "/5-twins.js"
+            },
+            {
+              "path": "/6-twins.js"
+            }
+          ]
+        },
+        {
+          "path": "/2-fix-the-bugs",
+          "files": [
+            {
+              "path": "/1-conditional.js"
+            },
+            {
+              "path": "/2-while-loop.js"
+            },
+            {
+              "path": "/3-for-loop.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/variable-swaps",
+      "files": [
+        {
+          "path": "/1-double-swap.js"
+        },
+        {
+          "path": "/2-triple-swap.js"
+        },
+        {
+          "path": "/3-triple-swap.js"
+        },
+        {
+          "path": "/4-quadruple-swap.js"
+        },
+        {
+          "path": "/5-quadruple-swap.js"
+        },
+        {
+          "path": "/6-let-and-const.js"
+        },
+        {
+          "path": "/7-let-and-const.js"
+        }
+      ],
+      "dirs": [
+        {
+          "path": "/example-double-swap",
+          "files": [
+            {
+              "path": "/0-setup.js"
+            },
+            {
+              "path": "/1-store-y.js"
+            },
+            {
+              "path": "/2-reassign-a.js"
+            },
+            {
+              "path": "/3-use-stored-y.js"
+            }
+          ],
+          "isExample": true
+        }
+      ]
+    }
+  ],
+  "lastBuild": "2020-06-11T14:44:07.435Z"
+}
